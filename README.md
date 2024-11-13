@@ -1,7 +1,5 @@
 # Convolutional Neural Networks
 
-# by swseo to kitec
-
 ## Table of contents
 
 * [Convolutional Neural Networks](#convolutional-neural-networks)
